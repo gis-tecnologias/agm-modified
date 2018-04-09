@@ -1,0 +1,11 @@
+{
+  "name": "agm-modified",
+  "version": "1.0.0",
+  "description": "Modification of angular-google-maps ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
